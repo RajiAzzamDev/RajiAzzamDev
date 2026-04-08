@@ -28,5 +28,5 @@ I specialize in **C#** and **ASP.NET Core**, building reliable, custom web syste
 Lebanon
 
 ## 🔗 Connect With Me
-- **LinkedIn:** [[Raji-Azzam](https://www.linkedin.com/in/raji-azzam/)]
+- **LinkedIn:** [[Raji-Azzam](https://www.linkedin.com/in/raji-azzam)]
 - **Email:** rajiazzam980@gmail.com

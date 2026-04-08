@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Raji Azzam 👋
 
-<!--
-**RajiAzzamDev/RajiAzzamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend-Focused Web Developer
 
-Here are some ideas to get you started:
+Backend-focused web developer working with **C#** and **ASP.NET Core**, building modern business websites and custom web systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build modern business websites
+- Develop custom web systems
+- Create backend APIs with ASP.NET Core
+- Improve my skills through real business-style projects
+
+## 🛠 Tech Stack
+- **Backend:** C#, ASP.NET Core, Entity Framework Core
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Database:** PostgreSQL, SQLite
+- **Tools:** Git, GitHub, Postman, DBeaver, Cursor, Visual Studio
+
+## 🎯 Current Focus
+- Building professional portfolio projects
+- Strengthening backend architecture
+- Creating real client-style web systems
+
+## 📌 Featured Projects
+Coming soon...
+
+## 📍 Location
+Lebanon
+
+## 🔗 Connect With Me
+- LinkedIn: [Raji Azzam]((https://www.linkedin.com/in/raji-azzam))
